@@ -19,7 +19,7 @@ My name is Caroline
       
 ##Contact me 
 
-<img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" alt="tutanota" height="30"> carolinesousa@tutanota.com 
+<img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" alt="tutanota" height="30"> 
  
 
 
