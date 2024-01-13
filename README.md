@@ -17,9 +17,4 @@ My name is Caroline
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariacarolinesousa&repo=github-readme-stats&theme=radical)](https://github.com/mariacarolinesousa/github-readme-stats)
       
-##Contact me 
-
-<img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" alt="tutanota" height="30"> 
- 
-
 
