@@ -19,8 +19,5 @@ My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacarolinesousa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-##Important Repository 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariacarolinesousa&repo=github-readme-stats&theme=radical)
       
 
