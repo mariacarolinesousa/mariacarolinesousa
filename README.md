@@ -21,6 +21,6 @@ My Skills
 
 ##Important Repository 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariacarolinesousa&repo=github-readme-stats&theme=radical)](https://github.com/mariacarolinesousa/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariacarolinesousa&repo=github-readme-stats&theme=radical)
       
 
