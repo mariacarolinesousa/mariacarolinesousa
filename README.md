@@ -1,5 +1,5 @@
 Hello!!
-My name is Caroline+6
+My name is Caroline
 
 My Skills
 
