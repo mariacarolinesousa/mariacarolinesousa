@@ -24,7 +24,7 @@ My Skills
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=flat)
 
 
-[![Caroline's GitHub stats](https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)
+[![Caroline's GitHub stats](https://github-stats-extended.vercel.app/api?username=mariacarolinesousa&theme=radical)
 
 [![Top Langs]([![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mariacarolinesousa)](https://github.com/stats-organization/github-stats-extended))
 
