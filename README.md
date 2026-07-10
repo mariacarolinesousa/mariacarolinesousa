@@ -26,7 +26,7 @@ My Skills
 
 [Caroline's GitHub stats](https://github-stats-extended.vercel.app/api?username=mariacarolinesousa&theme=radical)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mariacarolinesousa)](https://github.com/stats-organization/github-stats-extended))
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mariacarolinesousa)](https://github.com/stats-organization/github-stats-extended)
 
       
 
