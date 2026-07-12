@@ -28,7 +28,7 @@ My Skills
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mariacarolinesousa)](https://github.com/stats-organization/github-stats-extended)
 
-🌱 Currently learning
+🌱 Currently learning <br>
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 
